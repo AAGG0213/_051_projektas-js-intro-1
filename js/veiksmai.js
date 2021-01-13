@@ -1,22 +1,27 @@
-// const n1 = 1;
-// const n2 = 2;
-// const n3 = 3;
-// const n4 = 4;
-// const n5 = 5;
+console.log('-------------------------');
+console.log('---veiksmai su kintamaisiais----------');
+console.log('-------------------------');
+// 2021-01-04, Antra dalis
+// 
+const n11 = 1;
+const n12 = 2;
+const n13 = 3;
+const n14 = 4;
+const n15 = 5;
 
-// const sum = n1 + n2 + n3 + n4 + n5;
-// console.log(sum);
+const sum11 = n11 + n12 + n13 + n14 + n15;
+console.log(sum11);
 
 console.log('-------------------------');
 
-const n1 = 1;
-const n2 = 2;
-const n3 = 3;
-const n4 = 4;
-const n5 = 5;
+const n21 = 1;
+const n22 = 2;
+const n23 = 3;
+const n24 = 4;
+const n25 = 5;
 
-const sum = n2 / n1 - n3 + n4 + n5;
-console.log(sum);
+const sum21 = n22 / n21 - n23 + n24 + n25;
+console.log(sum21);
 
 console.log('-------------------------');
 
@@ -48,14 +53,14 @@ const alterSuma = 3 - -4 + -5 - 6 + 7;
 console.log(alterSuma);
 
 // *) kai is saraso issitraukiamos reiksmes pries jas naudojant
-const n11 = skaiciai[0];
-const n12 = skaiciai[1];
-const n13 = skaiciai[2];
-const n14 = skaiciai[3];
-const n15 = skaiciai[4];
+const n31 = skaiciai[0];
+const n32 = skaiciai[1];
+const n33 = skaiciai[2];
+const n34 = skaiciai[3];
+const n35 = skaiciai[4];
 
-const alterSuma2 = n11 - n12 + n13 - n14 + n15;
-console.log(alterSuma2);
+const alterSuma31 = n11 - n12 + n13 - n14 + n15;
+console.log(alterSuma31);
 
 
 // *) "tiesioginis" budas
