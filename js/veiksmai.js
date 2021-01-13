@@ -271,8 +271,8 @@ zodziuSeka4 += atskyrejas4 + zodziai1[skaitliukas4--];
 
 console.log(zodziuSeka4);
 
-console.log('-------------------------');
-console.log('-------------------------');
-console.log('-------------------------');
+console.log('============================================');
+console.log('---veiksmu su kintamaisiais pabaiga---------');
+console.log('============================================');
 
 // 
