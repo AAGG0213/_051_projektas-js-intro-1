@@ -1,3 +1,7 @@
+console.log('========================================');
+console.log('-------- Kintamieji --------------------');
+console.log('========================================');
+
 /*
 2021-01-04, Pirma dalis
 
@@ -115,6 +119,6 @@ console.log('Pinigineje', pinigineje);
 pinigineje = 17.05;
 console.log('Pinigineje', pinigineje);
 
-console.log('-------------------------');
-console.log('-------------------------');
-console.log('-------------------------');
+console.log('========================================');
+console.log('-------- Kintamuju temos pabaiga -------');
+console.log('========================================');

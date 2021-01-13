@@ -1,6 +1,6 @@
-console.log('-------------------------');
-console.log('---veiksmai su kintamaisiais----------');
-console.log('-------------------------');
+cconsole.log('========================================');
+console.log('-------- veiksmai su kintamaisiais ------');
+console.log('=========================================');
 // 2021-01-04, Antra dalis
 // 
 const n11 = 1;
