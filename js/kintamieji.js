@@ -1,8 +1,11 @@
 /*
+2021-01-04, Pirma dalis
+
 Kintamųjų iniciavimo būdai:
 1.	var - senas, nenaudoti 
 2.	let – jei dėl kokios nors priežasties nenaudojama const
 3.	const – prioritetinis pasirinkimas visais atvejais
+
 Kintamųjų saugomos reikšmės tipai:
 -	skaičius (number)
 -	tekstas (string)
