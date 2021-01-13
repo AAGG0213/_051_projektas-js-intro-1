@@ -101,5 +101,5 @@ console.log(kokiskaiciuissirinkau);
 
 
 console.log('========================================');
-console.log('- ternary operatoriaus pabaiga pabaiga -');
+console.log('- ternary operatoriaus pabaiga ---------');
 console.log('========================================');
