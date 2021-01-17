@@ -1,6 +1,6 @@
-console.log('---------------------------');
-console.log('-------funkcija daugyba----------');
-console.log('---------------------------');
+console.log('========================================');
+console.log('------ daugybos funkcija ---------------');
+console.log('========================================');
 
 function daugink(d1, d2) {
     const sandauga = d1 * d2;
@@ -31,9 +31,13 @@ console.log(daugink(0, 0), '->', 0);
 console.log(daugink(-2, 0), '->', 0); 
 
 
-// validation : 17 min 2021-01-11
+// validation : 2021-01-11, Antra dalis, nuo 17 min, 
+// 2021-01-13
 
 
 
 
 
+console.log('========================================');
+console.log('------ daugybos funkcijos pabaiga ------');
+console.log('========================================');
