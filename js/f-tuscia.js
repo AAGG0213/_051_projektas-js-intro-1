@@ -1,17 +1,17 @@
-// 2021-01-11, Pirma dalis, nuo xx min
+// 2021-01-11, Antra dalis
 
 console.log('========================================');
 console.log('-------- Funkcija tuscia --------------');
 console.log('========================================');
 
 
-function tuscia() {
-    const atsakymas = false;
-    console.log(' "Tuscia funkcija. Atsakymas: " ', atsakymas );
+function tusciaFunkcija() {
+    return false;
     // return ;
 }
 
-const t1 = tuscia();
+console.log(tusciaFunkcija());
+console.log(tusciaFunkcija());
 
 console.log('========================================');
 console.log('-------- Funkcijos tuscia pabaiga ------');
